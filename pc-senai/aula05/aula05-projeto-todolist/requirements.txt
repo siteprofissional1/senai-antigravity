@@ -1,6 +1,0 @@
-google-genai
-pydantic
-python-dotenv
-rich
-fastapi
-uvicorn
